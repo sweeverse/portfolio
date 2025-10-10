@@ -3,16 +3,16 @@ import { cn } from "@/lib/utils";
 
 const skills = [
   // Languages
-  { name: "Python", level: 90, category: "languages" },
-  { name: "C", level: 80, category: "languages" },
-  { name: "Java", level: 85, category: "languages" },
-  { name: "SQL", level: 80, category: "languages" },
+  { name: "Python", level: 80, category: "languages" },
+  { name: "C", level: 75, category: "languages" },
+  { name: "Java", level: 70, category: "languages" },
+  { name: "SQL", level: 70, category: "languages" },
 
   // Frontend
   { name: "HTML", level: 90, category: "frontend" },
   { name: "CSS", level: 85, category: "frontend" },
-  { name: "JavaScript", level: 85, category: "frontend" },
-  { name: "React", level: 80, category: "frontend" },
+  { name: "JavaScript", level: 75, category: "frontend" },
+  { name: "React", level: 70, category: "frontend" },
 
   // Backend
   { name: "Node.js", level: 75, category: "backend" },
@@ -23,17 +23,15 @@ const skills = [
 
   // Libraries / Frameworks
   { name: "NumPy", level: 90, category: "libraries" },
-  { name: "Pandas", level: 90, category: "libraries" },
+  { name: "Pandas", level: 80, category: "libraries" },
   { name: "Matplotlib", level: 85, category: "libraries" },
-  { name: "Scikit-learn", level: 85, category: "libraries" },
-  { name: "TensorFlow", level: 80, category: "libraries" },
+  { name: "Scikit-learn", level: 75, category: "libraries" },
+  { name: "TensorFlow", level: 70, category: "libraries" },
 
   // Tools
-  { name: "GitHub", level: 90, category: "tools" },
+  { name: "GitHub", level: 80, category: "tools" },
   { name: "VS Code", level: 95, category: "tools" },
   { name: "Jupyter Notebook", level: 90, category: "tools" },
-  { name: "Windows", level: 95, category: "tools" },
-  { name: "Linux (Basic)", level: 70, category: "tools" },
 ];
 
 const categories = [
