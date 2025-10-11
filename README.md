@@ -116,7 +116,7 @@ Runs locally at: [http://localhost:5173](http://localhost:5173)
 
 ## 🌐 Live Demo
 
-🔗 **[View My Live Portfolio](portfolio-mocha-sigma-kfrnoph4he.vercel.app)**  
+🔗 **[View My Live Portfolio](https://portfolio-mocha-sigma-kfrnoph4he.vercel.app)**  
 
 ---
 
