@@ -82,16 +82,6 @@ src/
 
 ---
 
-## 🗂️ Featured Projects
-
-| Project | Tech | Links |
-|---|---|---|
-| **Diabetes Progression Predictor** | Python, Flask, Firebase, ML | [GitHub](https://github.com/sweeverse/diabetes-prediction-app) |
-| **AI Email Assistant** | Spring Boot, Java, Gemini API, Chrome Extension | [GitHub](https://github.com/sweeverse/ai-email-assistant) |
-| **Wearable AI for Parkinson's & Alzheimer's Detection** | AI, TensorFlow, Embedded Systems, Healthcare | PDF (in-app) |
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -113,7 +103,7 @@ npm install
 npm run dev
 ```
 
-The site will be available at **`http://localhost:5173`**.
+The site will be available at **`portfolio-mocha-sigma-kfrnoph4he.vercel.app`**.
 
 ### Build for Production
 
