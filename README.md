@@ -150,9 +150,18 @@ To make this portfolio your own:
 
 ---
 
-## 📄 License
+## 🚀 Deployment
 
-This project is open source and available under the [MIT License](LICENSE).
+This portfolio is deployed on **[Vercel](https://vercel.com/)** and is available at:
+
+👉 [portfolio-mocha-sigma-kfrnoph4he.vercel.app](https://portfolio-mocha-sigma-kfrnoph4he.vercel.app)
+
+To deploy your own fork:
+
+1. Push your code to GitHub
+2. Go to [vercel.com](https://vercel.com/) and import your repository
+3. Vercel auto-detects Vite — no configuration needed
+4. Click **Deploy** and your site is live in seconds
 
 ---
 
