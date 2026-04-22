@@ -103,7 +103,9 @@ npm install
 npm run dev
 ```
 
-The site will be available at **`https://portfolio-mocha-sigma-kfrnoph4he.vercel.app`**.
+The site will be available at **`http://localhost:5173`**.
+
+> 🌐 **Live deployment:** [portfolio-mocha-sigma-kfrnoph4he.vercel.app](https://portfolio-mocha-sigma-kfrnoph4he.vercel.app)
 
 ### Build for Production
 
